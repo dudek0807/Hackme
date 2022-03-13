@@ -180,7 +180,26 @@ Wykorzystam odnośnik do podstrony onetu `sympatia.onet.pl`. Klikam w odnośnik 
 
 ![image](https://user-images.githubusercontent.com/73962599/158031018-bd010a0a-2288-4d9f-bdd6-070ea00089a0.png)
 
-W kodzię źródłowym widać ukryty div, więc usuńmy `display:hidden`.
+W kodzię źródłowym widać ukryty div o id `ukryte`, więc usuńmy `display:hidden`. Czcionka ustawiona jest na czarną, więc trzeba będzie zaznaczyć tekst by go odczytać.
+
+![image](https://user-images.githubusercontent.com/73962599/158057488-b581c175-e2c2-4da1-b2ca-226bb76bfaf2.png)
+
+Po wpisaniu hasła wyświetla się informacja, że następny etap jest ukryty w pliku `pokaz.php`. Przechodzimy do niego podmieniając go w pasku adresu.
+
+## Dziewiąte zadanie
+
+![image](https://user-images.githubusercontent.com/73962599/158057613-72445b49-c97f-4c0f-a42c-9c2b9715df21.png)
+
+Dostęp do strony jest po godzinie 1 w nocy. Patrząc w kod źródłowy możena to obejść lub wyłączając działanie javascriptu.
+
+![image](https://user-images.githubusercontent.com/73962599/158057649-f43e09d8-c7f5-4b3b-9537-837f70107894.png)
+
+![image](https://user-images.githubusercontent.com/73962599/158057678-37f77a71-f2d5-4ccf-a678-fddf5b96e0e0.png)
+
+Kopiując liczby binarne i zamieniając je na ASCII dostaniemy wiadomość `gratulacje! udało Ci się ukończyć te wersje Hackme.`
+
+![image](https://user-images.githubusercontent.com/73962599/158057723-453138c0-0839-401f-b187-749c12d4d4ce.png)
+
 
 
 
